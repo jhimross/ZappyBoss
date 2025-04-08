@@ -1,42 +1,59 @@
-☕ How to Play – Zappy Boss
-🎮 The Mission:
-Help Boss Arron stay airborne while dodging digital distractions, remote-work chaos, and floating obstacles from the cloud office!
+# 🚀 Zappy Boss
 
-🕹 Controls:
-Tap / Click / Press Space to flap and keep Arron flying.
+**Zappy Boss** is a fast-paced, Flappy Bird-style browser game featuring your legendary remote boss, Arron! Help him flap through digital distractions, dodge remote work chaos, and stay airborne—because even the boss can't fall on your watch.
 
-Time your flaps to guide him up and down between obstacles.
+---
 
-Avoid hitting anything — Arron may be the boss, but gravity still wins.
+## 🎮 Gameplay Overview
 
-⚠️ Avoid These:
-Frozen Zoom screens ❄️
+Zappy Boss is a single-button/tap game. The player controls **Boss Arron**, who must avoid a series of obstacles representing remote work life: Zoom calls, Slack pings, coffee mugs, and more!
 
-Overflowing coffee mugs ☕
+**Game Objective:**  
+Stay in the air as long as you can. Score increases the longer you survive and pass through gaps between obstacles.
 
-Notification bubbles 💬
+---
 
-Wi-Fi dead zones 📶
+## 🕹 Controls
 
-Floating office chairs 💺
+- **Click / Tap / Press Space** to flap upward.
+- Release to descend.
+- Dodge obstacles and stay in the game!
 
-Angry calendar reminders 📅
+---
 
-🚀 Power-Ups:
-Coffee Boost: Temporary speed and energy burst
+## ⚡ 1-Minute Challenge Mode (Event Mechanic)
 
-Delegate Button: Clears all current obstacles (Boss move!)
+1. Start the game when the timer begins.
+2. Play for **1 minute** and try to score as high as possible.
+3. Take a **screenshot** of your score before time’s up.
+4. Post your screenshot in **#general**, under the **“Zappy Boss”** thread.
+5. The **first participant** with the **highest score** wins!
 
-Mute Shield: Silences distractions and makes you invincible for a few seconds
+> Tiebreaker: First to post wins if scores are the same.
 
-Auto-Reply Bot: Flies for you briefly while Arron “multitasks”
+---
 
-🎯 The Goal:
-Stay alive as long as you can.
+## 🧱 Features
 
-Fly farther than your coworkers.
+- Pixel-style graphics and remote work-themed design
+- Hilarious obstacles like Slack Notifications
+- Custom game-over messages and sound effects
+- Leaderboard-ready (coming soon!)
 
-Claim your spot on the leaderboard as the Zappiest Boss Alive!
+---
 
-🤫 Bonus Tip:
-Tapping rhythmically is better than smashing your screen. Arron doesn’t need more pressure.
+## 📦 Tech Stack
+
+- HTML5 / JavaScript / Canvas
+- Responsive design for desktop & mobile
+- Simple, addictive gameplay loop
+
+---
+
+## 🧑‍💻 Installation / Run Locally
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/yourusername/zappy-boss.git
+cd zappy-boss
