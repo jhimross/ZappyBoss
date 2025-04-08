@@ -1,6 +1,6 @@
 # 🚀 Zappy Boss
 
-**Zappy Boss** is a fast-paced, Flappy Bird-style browser game featuring your legendary remote boss, Arron! Help him flap through digital distractions, dodge remote work chaos, and stay airborne—because even the boss can't fall on your watch.
+**Zappy Boss** is a fast-paced, Flappy Bird-style browser game created as an icebreaker for our company’s townhall event! The main character of the game? **Our boss, Arron**! Help him flap through digital distractions, dodge remote work chaos, and stay airborne—because even the boss can't fall on your watch.
 
 ---
 
@@ -55,5 +55,5 @@ Stay in the air as long as you can. Score increases the longer you survive and p
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/zappy-boss.git
+git clone https://github.com/jhimross/zappy-boss.git
 cd zappy-boss
